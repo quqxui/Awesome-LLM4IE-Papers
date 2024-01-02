@@ -336,7 +336,7 @@ A taxonomy by Learning Paradigms.
     </thead>
     <tbody>
         <tr>
-            <td rowspan="32" ><strong>NER</strong></td>
+            <td align="center" rowspan="32" ><strong>NER</strong></td>
             <td align="center">ACE04</td>
             <td align="center">News</td>
             <td align="center">7</td>
@@ -593,7 +593,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">1287</td>
         </tr>
         <tr>
-            <td rowspan="11"><strong>RE</strong></td>
+            <td align="center" rowspan="11"><strong>RE</strong></td>
             <td align="center">ACE05</td>
             <td align="center">News</td>
             <td align="center">7</td>
@@ -682,7 +682,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">15509</td>
         </tr>
         <tr>
-            <td rowspan="7"><strong>EE</strong></td>
+            <td align="center" rowspan="7"><strong>EE</strong></td>
             <td align="center">ACE05</td>
             <td align="center">News</td>
             <td align="center">33/22</td>
