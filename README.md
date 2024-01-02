@@ -262,7 +262,7 @@ A taxonomy by Learning Paradigms.
 
 |  Paper  |  Domain |   Venue    |   Date  | Code |
 | :----- | :--------------: | :-------: | :---------: |:---------: |
-| <br>  [Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with<br> Auxiliary Refined Knowledge](https://arxiv.org/abs/2305.12212) <br> |   Multimodal      | ENMLP Findings  |  2023-12  | [Github](https://github.com/JinYuanLi0012/PGIM) |
+| <br>  [Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge](https://arxiv.org/abs/2305.12212) <br> |   Multimodal      | ENMLP Findings  |  2023-12  | [Github](https://github.com/JinYuanLi0012/PGIM) |
 | <br>  [In-context Learning for Few-shot Multimodal Named Entity Recognition](https://aclanthology.org/2023.findings-emnlp.196/) <br> |     Multimodal    | ENMLP Findings  | 2023-12   |  |
 | <br>  [PolyIE: A Dataset of Information Extraction from Polymer Material Scientific Literature](https://arxiv.org/abs/2311.07715) <br> |     Polymer Material    | Arxiv  |   2023-11 | [Github](https://github.com/jerry3027/PolyIE) |
 | <br>  [Prompt-NER: Zero-shot Named Entity Recognition in Astronomy Literature via Large Language Models](https://arxiv.org/abs/2310.17892) <br> |     Astronomical    | Arxiv  |   2023-10  |  |
