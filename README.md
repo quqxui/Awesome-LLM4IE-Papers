@@ -119,7 +119,7 @@ Models targeting only EE tasks.
 
 ### Event Argument Extraction
 |  Paper  |      Venue    |   Date  | Code |
-| :-----: | :--------------: | :------- | :---------: |
+| :----- | :--------------: | :------- | :---------: |
 |  [Context-Aware Prompt for Generation-based Event Argument Extraction with Diffusion Models](https://dl.acm.org/doi/10.1145/3583780.3614820)  |    CIKM      |   2023-10  | []() |
 |  [Code4Struct: Code Generation for Few-Shot Event Structure Prediction](https://arxiv.org/abs/2210.12810)  |       ACL   |   2023-07  | [Github](https://github.com/xingyaoww/code4struct) |
 |  [Event Extraction as Question Generation and Answering](https://aclanthology.org/2023.acl-short.143.pdf)  |    ACL short      | 2023-07    | [Github](https://github.com/dataminr-ai/Event-Extraction-as-Question-Generation-and-Answering) |
@@ -127,7 +127,7 @@ Models targeting only EE tasks.
 
 ### Event Detection & Argument Extraction
 |  Paper  |      Venue    |   Date  | Code |
-| :-----: | :--------------: | :------- | :---------: |
+| :----- | :--------------: | :------- | :---------: |
 |  [Guideline Learning for In-context Information Extraction](https://arxiv.org/abs/2310.05066)  |   EMNLP    |  2023-12   |  |
 |  [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)  |     EMNLP Findings     | 2023-12    | [Github](https://github.com/mayubo2333/LLM-IE) |
 |  [DICE: Data-Efficient Clinical Event Extraction with Generative Models](https://aclanthology.org/2023.acl-long.886.pdf)  |      ACL    |  2023-07   | [Github](https://github.com/derekmma/DICE) |
