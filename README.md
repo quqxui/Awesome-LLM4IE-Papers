@@ -318,3 +318,56 @@ A taxonomy by Learning Paradigms.
 |  [Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again](https://aclanthology.org/2022.findings-emnlp.329/)  |   EMNLP Findings   |   2022-12  | [Github](https://github.com/dki-lab/few-shot-bioIE) |
 |  [Large Language Models are Few-Shot Clinical Information Extractors](https://arxiv.org/abs/2205.12689)  |   EMNLP   |  2022-12   | [Huggingface](https://huggingface.co/datasets/mitclinicalml/clinical-ie) |
 
+# Datasets
+| Task | Dataset | Domain | #Class | #Train | #Val | #Test |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **NER** rowspan=32 | ACE04   |   News     |   7   |   6202    |   745     |   812    |
+|                |   ACE05   |   News     |   7   |   7299    |   971     |   1060   |
+|                |   BC5CDR |  Biomedical  |   2   |   4560    |   4581    |   4797   |
+|                |   Broad Twitter Corpus |   Social Media  |  3  |  6338  |  1001  |  2000  |         
+|                |   CADEC   |   Biomedical   |   1   |   5340   |   1097   |  1160   |
+|                |   CoNLL03 |   News     |   4   |   14041   |   3250    |   3453   |
+|                |   CoNLLpp |   News     |   4   |   14041   |   3250    |   3453   |
+|                |   CrossNER-AI |  Artificial Intelligence    |   14  |   100 |   350 |   431|
+|                |   CrossNER-Literature |  Literary    |   12  |   100 |   400 |   416 |
+|                |   CrossNER-Music |  Musical    |   13  |   100 |   380 |   465|
+|                |   CrossNER-Politics |  Political    |   9  |   199 |   540 |   650|
+|                |   CrossNER-Science |  Scientific    |   17  |   200 |   450 |   543|  
+|                |   FabNER    |   Scientific  |   12  |   9435    |   2182    |   2064   |
+|                |   Few-NERD |   General |   66  |   131767  |   18824   |   37468  |
+|                |   FindVehicle |   Traffic   |   21   |   21565   |   20777   |   20777  |
+|                |   GENIA  |   Biomedical |   5   |   15023   |   1669    |   1854   |
+|                |   HarveyNER | Social Media |     4   |   3967    |   1301    |   1303   |
+|                |   MIT-Movie |    Social Media    |   12  |   9774    |   2442    |   2442   |
+|                |   MIT-Restaurant |   Social Media   |   8  |   7659    |   1520   |   1520   |
+|                |   MultiNERD  |   Wikipedia   |   16   |   134144   |   10000   |  10000    |
+|                |   NCBI |  Biomedical  |   4   |   5432    |   923    |   940   |
+|                |   OntoNotes 5.0   |   General   |   18  |   59924   |   8528    |   8262   |
+|                |   ShARe13 |   Biomedical   |   1   |   8508   |   12050   |  9009   |
+|                |   ShARe14 |   Biomedical   |   1   |   17404   |   1360   |  15850   |
+|                |   SNAP$^*$ |  Social Media  |   4   |   4290    |   1432    |   1459   |
+|                |   TTC | Social Meida |   3   |   10000   |   500   |   1500  |   
+|                |   Tweebank-NER |  Social Media  |   4   |   1639    |   710     |   1201  |
+|                |   Twitter2015$^*$ |  Social Media  |   4   |   4000   |  1000   |   3357   |
+|                |   Twitter2017$^*$ |  Social Media  |   4   |  3373  |  723  |   723   |
+|                |   TwitterNER7 |  Social Media  |   7   |  7111  |  886  |   576   |
+|                |   WikiDiverse$^*$ |  News    |   13   |     6312    |   755    |   757   |
+|                |   WNUT2017    |   Social Media |    6   |   3394   |   1009   |  1287   |
+| **RE** rowspan=11 |  ACE05  |  News     |  7   |  10051   |  2420    |  2050   |
+|            |  ADE |  Biomedical       |  1   |  3417    |  427     |  428   |
+|            |  CoNLL04 |  News    |  5   |  922     |  231     |  288   |
+|            |  DocRED |  Wikipedia  |  96   |  3008     |  300     |  700   |
+|            |  MNRE$^*$ | Social Media    |  23   |  12247    |  1624    |  1614   |
+|            |  NYT |  News     |  24   |  56196     |  5000     |  5000   |
+|            |  Re-TACRED  |  News     |  40   |  58465     |  19584    |  13418   |
+|            |  SciERC  |  Scientific   |  7   |  1366     |  187    |  397   |
+|            |  SemEval2010  |  General   |  19   |  6507     |  1493    |  2717   | 
+|            |  TACRED  |  News     |  42   |  68124     |  22631    |  15509   |
+|            |  TACREV  |  News     |  42   |  68124     |  22631    |  15509   |
+| **EE** rowspan=7 | ACE05   | News     | 33/22   | 17172   | 923    | 832 |
+|            | CASIE   | Cybersecurity     | 5/26   | 11189   | 1778    | 3208 |
+|            | GENIA11   | Biomedical  | 9/11   | 8730   | 1091   |  1092 |
+|            | GENIA13   | Biomedical  | 13/7   | 4000   | 500   |  500 |
+|            | PHEE  | Biomedical  | 2/16   | 2898   |  961   |  968 |
+|            | RAMS  | News     | 139/65   | 7329   |  924    | 871 |
+|            | WikiEvents | Wikipedia | 50/59   | 5262   |  378   | 492 |
