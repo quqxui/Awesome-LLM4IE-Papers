@@ -60,7 +60,7 @@ Models targeting only ner tasks.
 |  [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)  |   EMNLP Findings    |  2023-12   | [Github](https://github.com/mayubo2333/LLM-IE) |
 |  [Learning to Rank Context for Named Entity Recognition Using a Synthetic Dataset](https://arxiv.org/abs/2310.10118)  |   EMNLP     |  2023-12   | [Github](https://github.com/CompNet/conivel/tree/gen) |
 |  [LLMaAA: Making Large Language Models as Active Annotators](https://arxiv.org/abs/2310.19596)  |   EMNLP Findings    |  2023-12   | [Github](https://github.com/ridiculouz/LLMAAA) |
-|  <div style="width: 50pt">[Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge](https://arxiv.org/abs/2305.12212)</div>  |   EMNLP Findings    |  2023-12   | [Github](https://github.com/JinYuanLi0012/PGIM) |
+|[Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge](https://arxiv.org/abs/2305.12212)  |   EMNLP Findings    |  2023-12   | [Github](https://github.com/JinYuanLi0012/PGIM) |
 |  [Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models](https://arxiv.org/abs/2311.08921)  |   Arxiv    |  2023-11   |  |
 |  [GPT-NER: Named Entity Recognition via Large Language Models](https://arxiv.org/abs/2304.10428)  |   Arxiv    |  2023-10   | [Github](https://github.com/ShuheWang1998/GPT-NER) |
 |  [Prompt-NER: Zero-shot Named Entity Recognition in Astronomy Literature via Large Language Models](https://arxiv.org/abs/2310.17892)  |   Arxiv    |  2023-10   |  |
@@ -92,23 +92,22 @@ Models targeting only RE tasks.
 |  [LLMaAA: Making Large Language Models as Active Annotators](https://arxiv.org/abs/2310.19596)  |   EMNLP Findings    |  2023-12   | [Github](https://github.com/ridiculouz/LLMAAA) |
 |  [Improving Unsupervised Relation Extraction by Augmenting Diverse Sentence Pairs](https://arxiv.org/abs/2312.00552)  |   EMNLP    |  2023-12   | [Github](https://github.com/qingwang-isu/AugURE) |
 |  [Revisiting Large Language Models as Zero-shot Relation Extractors](https://arxiv.org/abs/2310.05028)  |   EMNLP Findings    |  2023-12   |  |
-|  [Semi-automatic Data Enhancement for Document-Level Relation Extraction with Distant Supervision from Large Language Models](https://arxiv.org/pdf/2311.07314v1.pdf)  |   Arxiv    |  2023-11   | [Github](https://github.com/bigai-nlco/DocGNRE) |
-|  [Chain-of-Thought Prompt Distillation for Multimodal Named Entity Recognition and Multimodal Relation Extraction](https://arxiv.org/abs/2306.14122)  |   Arxiv    |  2023-08   |  |
 |  [Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors](https://aclanthology.org/2023.findings-acl.50.pdf)  |   ACL Findings    |  2023-07   | [Github](https://github.com/OSU-NLP-Group/QA4RE) |
 |  [How to Unleash the Power of Large Language Models for Few-shot Relation Extraction?](https://arxiv.org/abs/2305.01555)  |   ACL Workshop    |  2023-07   | [Github](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE) |
 |  [STAR: Improving Low-Resource Information Extraction by Structure-to-Text Data Generation with Large Language Models](https://arxiv.org/abs/2305.15090)  |   Arxiv    |  2023-05   |  |
 |  [Does Synthetic Data Generation of LLMs Help Clinical Text Mining?](https://arxiv.org/abs/2303.04360)  |   Arxiv    |  2023-04   |  |
-|  [Does Synthetic Data Generation of LLMs Help Clinical Text Mining?](https://arxiv.org/abs/2303.04360)  |   Arxiv    |  2023-04   |  |
+|  [REBEL: Relation Extraction By End-to-end Language generation](https://aclanthology.org/2021.findings-emnlp.204/)  |    EMNLP Findings      |   2021-11   | [Github](https://github.com/babelscape/rebel) |
+
 
 ### Relation Triplet
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
-|    |          |     |  |
+|  [Document-level Entity-based Extraction as Template Generation](https://aclanthology.org/2021.emnlp-main.426/)  |    EMNLP      | 2021-11    | [Github](https://github.com/PlusLabNLP/TempGen) |
 
 ### Relation Strict
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
-|    |          |     |  |
+|  [REBEL: Relation Extraction By End-to-end Language generation](https://aclanthology.org/2021.findings-emnlp.204/)  |    EMNLP Findings      |   2021-11   | [Github](https://github.com/babelscape/rebel) |
 
 ## Event Extraction 
 Models targeting only EE tasks.
@@ -116,16 +115,29 @@ Models targeting only EE tasks.
 ### Event Detection
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
-|    |          |     |  |
+|  [Unleash GPT-2 Power for Event Detection](https://aclanthology.org/2021.acl-long.490.pdf)  |    ACL      |  2021-08   | []() |
 
 ### Event Argument Extraction
 |  Paper  |      Venue    |   Date  | Code |
 | :-----: | :--------------: | :------- | :---------: |
-|    |          |     |  |
+|  [Context-Aware Prompt for Generation-based Event Argument Extraction with Diffusion Models](https://dl.acm.org/doi/10.1145/3583780.3614820)  |    CIKM      |   2023-10  | []() |
+|  [Code4Struct: Code Generation for Few-Shot Event Structure Prediction](https://arxiv.org/abs/2210.12810)  |       ACL   |   2023-07  | [Github](https://github.com/xingyaoww/code4struct) |
+|  [Event Extraction as Question Generation and Answering](https://aclanthology.org/2023.acl-short.143.pdf)  |    ACL short      | 2023-07    | [Github](https://github.com/dataminr-ai/Event-Extraction-as-Question-Generation-and-Answering) |
+|  [Prompt for extraction? PAIE: prompting argument interaction for event argument extraction](https://aclanthology.org/2022.acl-long.466/)  |        ACL       |  2022-05   | [Github](https://github.com/mayubo2333/PAIE) |
+
 ### Event Detection & Argument Extraction
 |  Paper  |      Venue    |   Date  | Code |
 | :-----: | :--------------: | :------- | :---------: |
-|    |          |     |  |
+|  [Guideline Learning for In-context Information Extraction](https://arxiv.org/abs/2310.05066)  |   EMNLP    |  2023-12   |  |
+|  [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)  |     EMNLP Findings     | 2023-12    | [Github](https://github.com/mayubo2333/LLM-IE) |
+|  [DICE: Data-Efficient Clinical Event Extraction with Generative Models](https://aclanthology.org/2023.acl-long.886.pdf)  |      ACL    |  2023-07   | [Github](https://github.com/derekmma/DICE) |
+| [A Monte Carlo Language Model Pipeline for Zero-Shot Sociopolitical Event Extraction](https://arxiv.org/abs/2305.15051)   |    Arxiv      |  2023-05    | []() |
+|  [STAR: Improving Low-Resource Information Extraction by Structure-to-Text Data Generation with Large Language Models](https://arxiv.org/abs/2305.15090)  |     Arxiv     |  2023-05   | []() |
+|  [DEGREE: A Data-Efficient Generative Event Extraction Model](https://aclanthology.org/2022.naacl-main.138/)  |      NAACL    |   2022-07  | [Github](https://github.com/PlusLabNLP/DEGREE) |
+|  [ClarET: Pre-training a correlation-aware context-to-event transformer for event-centric generation and classification](https://aclanthology.org/2022.acl-long.183/)  |   ACL       |    2022-05 | [Github](https://github.com/yczhou001/ClarET) |
+|  [Dynamic prefix-tuning for generative template-based event extraction](https://aclanthology.org/2022.acl-long.358.pdf)  |   ACL       |  2022-05   | []() |
+|  [Text2event: Controllable sequence-to- structure generation for end-to-end event extraction](https://arxiv.org/abs/2106.09232)  |        ACL     |  2021-08     | [Github](https://github.com/luyaojie/text2event) |
+|  [Document-level event argument extraction by conditional generation](https://aclanthology.org/2021.naacl-main.69.pdf)  |    NAACL      | 2021-06    | [Github](https://github.com/raspberryice/gen-arg) |
 
 
 ## Universal Information Extraction
@@ -133,12 +145,22 @@ Unified models targeting multiple IE tasks.
 ### NL-LLMs based
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
-|    |          |     |  |
+|  [Set Learning for Generative Information Extraction](https://aclanthology.org/2023.emnlp-main.806.pdf)  |    EMNLP      |   2023-12  | []() |
+|  [GIELLM: Japanese General Information Extraction Large Language Model Utilizing Mutual Reinforcement Effect](https://arxiv.org/abs/2311.06838)  |   Arxiv       |  2023-11   | []() |
+|  [InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction](https://arxiv.org/abs/2304.08085)  |    Arxiv      |  2023-04   | [Github](https://github.com/BeyonderXX/InstructUIE) |
+| [Zero-Shot Information Extraction via Chatting with ChatGPT](https://arxiv.org/abs/2302.10205)   |      Arxiv      |  2023-02    | [Github](https://github.com/cocacola-lab/ChatIE) |
+|  [GenIE: Generative Information Extraction](https://aclanthology.org/2022.naacl-main.342.pdf)  |     NAACL     |   2022-07  | [Github](https://github.com/epfl-dlab/GenIE) |
+|  [DEEPSTRUCT: Pretraining of Language Models for Structure Prediction](https://aclanthology.org/2022.findings-acl.67/)  |      ACL Findings    |   2022-05  | [Github](https://github.com/wang-research-lab/deepstruct) |
+|  [Unified Structure Generation for Universal Information Extraction](https://aclanthology.org/2022.acl-long.395/)  |      ACL       |  2022-05     | [Github](https://github.com/yhcc/BARTABSA) |
+|  [Structured prediction as translation between augmented natural languages](https://arxiv.org/abs/2101.05779)  |    ICLR      | 2021-01    | [Github](https://github.com/amazon-science/tanl) |
+
 ### Code-LLMs based
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
-|    |          |     |  |
-
+|  [GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction](https://arxiv.org/abs/2310.03668)  |     Arxiv     |  2023-12   | [Github](https://github.com/hitz-zentroa/GoLLIE) |
+|  [Retrieval-Augmented Code Generation for Universal Information Extraction](https://arxiv.org/abs/2311.02962)  |      Arxiv    |   2023-11  | []() |
+|  [CODEIE: Large Code Generation Models are Better Few-Shot Information Extractors](https://arxiv.org/abs/2305.05711)  |       ACL   |   2023-07 | [Github](https://github.com/artpli/CodeIE) |
+|  [CodeKGC: Code Language Model for Generative Knowledge Graph Construction](https://arxiv.org/abs/2304.09048)  |    Arxiv      |   2023-04  | [Github](https://github.com/zjunlp/DeepKE/tree/main/example/llm/CodeKGC) |
 
 
 # Learning Paradigms
