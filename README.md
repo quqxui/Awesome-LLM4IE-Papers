@@ -45,7 +45,7 @@ Models targeting only ner tasks.
 |  [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)  |   EMNLP Findings    |  2023-12   | [Github](https://github.com/mayubo2333/LLM-IE) |
 |  [Learning to Rank Context for Named Entity Recognition Using a Synthetic Dataset](https://arxiv.org/abs/2310.10118)  |   EMNLP     |  2023-12   | [Github](https://github.com/CompNet/conivel/tree/gen) |
 |  [LLMaAA: Making Large Language Models as Active Annotators](https://arxiv.org/abs/2310.19596)  |   EMNLP Findings    |  2023-12   | [Github](https://github.com/ridiculouz/LLMAAA) |
-|  <div style="width: 150pt">[Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge](https://arxiv.org/abs/2305.12212)</div>  |   EMNLP Findings    |  2023-12   | [Github](https://github.com/JinYuanLi0012/PGIM) |
+|  <div style="width: 50pt">[Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge](https://arxiv.org/abs/2305.12212)</div>  |   EMNLP Findings    |  2023-12   | [Github](https://github.com/JinYuanLi0012/PGIM) |
 |  [Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models](https://arxiv.org/abs/2311.08921)  |   Arxiv    |  2023-11   |  |
 |  [GPT-NER: Named Entity Recognition via Large Language Models](https://arxiv.org/abs/2304.10428)  |   Arxiv    |  2023-10   | [Github](https://github.com/ShuheWang1998/GPT-NER) |
 |  [Prompt-NER: Zero-shot Named Entity Recognition in Astronomy Literature via Large Language Models](https://arxiv.org/abs/2310.17892)  |   Arxiv    |  2023-10   |  |
