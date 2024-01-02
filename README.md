@@ -24,20 +24,6 @@ Awesome papers about generative Information extraction using LLMs
 - [Specific Domain](#specific-domain)
 - [Evaluation and Analysis](#evaluation-and-analysis)
 
-<style>
-table th:first-of-type {
-    width: 50%;
-}
-table th:nth-of-type(2) {
-    width: 20%;
-}
-table th:nth-of-type(3) {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 20%;
-}
-</style>
 
 # Information Extraction tasks
 A taxonomy by various tasks.
@@ -52,6 +38,20 @@ Models targeting only ner tasks.
 |  [Generative Entity Typing with Curriculum Learning](https://arxiv.org/abs/2210.02914)  |   EMNLP       |  2022-12   | [Github](https://github.com/siyuyuan/GET) |
 
 ### Entity Identification & Typing 
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 20%;
+}
+table th:nth-of-type(3) {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 20%;
+}
+</style>
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
 |  [2INER: Instructive and In-Context Learning on Few-Shot Named Entity Recognition](https://aclanthology.org/2023.findings-emnlp.259/)  |   EMNLP Findings    |  2023-12   |  |
