@@ -10,6 +10,21 @@ Awesome papers about generative Information extraction using LLMs
 <img src="./image/intro.png" style="width: 50%">
 </p>
 
+The organization of papers is discussed in our survey: [Large Language Models for Generative Information Extraction: A Survey](https://arxiv.org/abs/2312.17617). 
+
+If you have any suggestions or come across any mistakes, missing information, please feel free to let us know via email at **derongxu@mail.ustc.edu.cn**. We appreciate your feedback and help in improving our work.
+
+If you find our survey useful for your research, please cite the following paper:
+
+    @misc{xu2023large,
+        title={Large Language Models for Generative Information Extraction: A Survey}, 
+        author={Derong Xu and Wei Chen and Wenjun Peng and Chao Zhang and Tong Xu and Xiangyu Zhao and Xian Wu and Yefeng Zheng and Enhong Chen},
+        year={2023},
+        eprint={2312.17617},
+        archivePrefix={arXiv},
+        primaryClass={cs.CL}
+    }
+    
 ## Table of Contents
 - [Information Extraction tasks](#information-extraction-tasks)
     - [Named Entity Recognition](#named-entity-recognition)
