@@ -24,6 +24,20 @@ Awesome papers about generative Information extraction using LLMs
 - [Specific Domain](#specific-domain)
 - [Evaluation and Analysis](#evaluation-and-analysis)
 
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 20%;
+}
+table th:nth-of-type(3) {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 20%;
+}
+</style>
 
 # Information Extraction tasks
 A taxonomy by various tasks.
@@ -71,7 +85,20 @@ Models targeting only RE tasks.
 ### Relation Classification
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
-|    |          |     |  |
+|  [GPT-RE: In-context Learning for Relation Extraction using Large Language Models](https://arxiv.org/abs/2305.02105)  |   EMNLP    |  2023-12   | [Github](https://github.com/YukinoWan/GPT-RE) |
+|  [Guideline Learning for In-context Information Extraction](https://arxiv.org/abs/2310.05066)  |   EMNLP    |  2023-12   |  |
+|  [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)  |   EMNLP Findings    |  2023-12   | [Github](https://github.com/mayubo2333/LLM-IE) |
+|  [LLMaAA: Making Large Language Models as Active Annotators](https://arxiv.org/abs/2310.19596)  |   EMNLP Findings    |  2023-12   | [Github](https://github.com/ridiculouz/LLMAAA) |
+|  [Improving Unsupervised Relation Extraction by Augmenting Diverse Sentence Pairs](https://arxiv.org/abs/2312.00552)  |   EMNLP    |  2023-12   | [Github](https://github.com/qingwang-isu/AugURE) |
+|  [Revisiting Large Language Models as Zero-shot Relation Extractors](https://arxiv.org/abs/2310.05028)  |   EMNLP Findings    |  2023-12   |  |
+|  [Semi-automatic Data Enhancement for Document-Level Relation Extraction with Distant Supervision from Large Language Models](https://arxiv.org/pdf/2311.07314v1.pdf)  |   Arxiv    |  2023-11   | [Github](https://github.com/bigai-nlco/DocGNRE) |
+|  [Chain-of-Thought Prompt Distillation for Multimodal Named Entity Recognition and Multimodal Relation Extraction](https://arxiv.org/abs/2306.14122)  |   Arxiv    |  2023-08   |  |
+|  [Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors](https://aclanthology.org/2023.findings-acl.50.pdf)  |   ACL Findings    |  2023-07   | [Github](https://github.com/OSU-NLP-Group/QA4RE) |
+|  [How to Unleash the Power of Large Language Models for Few-shot Relation Extraction?](https://arxiv.org/abs/2305.01555)  |   ACL Workshop    |  2023-07   | [Github](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE) |
+|  [STAR: Improving Low-Resource Information Extraction by Structure-to-Text Data Generation with Large Language Models](https://arxiv.org/abs/2305.15090)  |   Arxiv    |  2023-05   |  |
+|  [Does Synthetic Data Generation of LLMs Help Clinical Text Mining?](https://arxiv.org/abs/2303.04360)  |   Arxiv    |  2023-04   |  |
+|  [Does Synthetic Data Generation of LLMs Help Clinical Text Mining?](https://arxiv.org/abs/2303.04360)  |   Arxiv    |  2023-04   |  |
+
 ### Relation Triplet
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
