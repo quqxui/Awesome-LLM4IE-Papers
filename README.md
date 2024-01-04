@@ -329,6 +329,8 @@ A taxonomy by Learning Paradigms.
 
 # Datasets
 \* denotes the dataset is multimodal. # refers to the number of categories or sentences.
+<br>
+The link will be updated soon~
 
 <table>
     <thead>
@@ -340,6 +342,7 @@ A taxonomy by Learning Paradigms.
             <th align="center">#Train</th>
             <th align="center">#Val</th>
             <th align="center">#Test</th>
+            <th align="center">Link</th>
         </tr>
     </thead>
     <tbody>
@@ -351,6 +354,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">6202</td>
             <td align="center">745</td>
             <td align="center">812</td>
+            <td align="center"><a href="https://catalog.ldc.upenn.edu/LDC2005T09">Link</a></td>
         </tr>
         <tr>
             <td align="center">ACE05</td>
@@ -359,6 +363,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">7299</td>
             <td align="center">971</td>
             <td align="center">1060</td>
+            <td align="center"><a href="https://catalog.ldc.upenn.edu/LDC2006T06">Link</a></td>
         </tr>
         <tr>
             <td align="center">BC5CDR</td>
@@ -367,6 +372,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">4560</td>
             <td align="center">4581</td>
             <td align="center">4797</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">Broad Twitter Corpus</td>
@@ -375,6 +381,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">6338</td>
             <td align="center">1001</td>
             <td align="center">2000</td>
+            <td align="center"><a href="https://github.com/GateNLP/broad_twitter_corpus?">Link</a></td>
         </tr>
         <tr>
             <td align="center">CADEC</td>
@@ -383,6 +390,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">5340</td>
             <td align="center">1097</td>
             <td align="center">1160</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">CoNLL03</td>
@@ -391,6 +399,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">14041</td>
             <td align="center">3250</td>
             <td align="center">3453</td>
+            <td align="center"><a href="https://www.clips.uantwerpen.be/conll2003/ner/">Link</a></td>
         </tr>
         <tr>
             <td align="center">CoNLLpp</td>
@@ -399,6 +408,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">14041</td>
             <td align="center">3250</td>
             <td align="center">3453</td>
+            <td align="center"><a href="https://github.com/ZihanWangKi/CrossWeigh">Link</a></td>
         </tr>
         <tr>
             <td align="center">CrossNER-AI</td>
@@ -407,6 +417,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">100</td>
             <td align="center">350</td>
             <td align="center">431</td>
+            <td align="center" rowspan="5" ><a href="https://github.com/zliucr/CrossNER">Link</a></td>
         </tr>
         <tr>
             <td align="center">CrossNER-Literature</td>
@@ -447,6 +458,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">9435</td>
             <td align="center">2182</td>
             <td align="center">2064</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">Few-NERD</td>
@@ -455,6 +467,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">131767</td>
             <td align="center">18824</td>
             <td align="center">37468</td>
+            <td align="center"><a href="https://github.com/thunlp/Few-NERD">Link</a></td>
         </tr>
         <tr>
             <td align="center">FindVehicle</td>
@@ -463,6 +476,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">21565</td>
             <td align="center">20777</td>
             <td align="center">20777</td>
+            <td align="center"><a href="https://github.com/GuanRunwei/VehicleFinder-CTIM">Link</a></td>
         </tr>
         <tr>
             <td align="center">GENIA</td>
@@ -471,6 +485,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">15023</td>
             <td align="center">1669</td>
             <td align="center">1854</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">HarveyNER</td>
@@ -479,6 +494,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">3967</td>
             <td align="center">1301</td>
             <td align="center">1303</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">MIT-Movie</td>
@@ -487,6 +503,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">9774</td>
             <td align="center">2442</td>
             <td align="center">2442</td>
+            <td align="center"><a href="https://tianchi.aliyun.com/dataset/145106">Link</a></td>
         </tr>
         <tr>
             <td align="center">MIT-Restaurant</td>
@@ -495,6 +512,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">7659</td>
             <td align="center">1520</td>
             <td align="center">1520</td>
+            <td align="center"><a href="https://tianchi.aliyun.com/dataset/145105">Link</a></td>
         </tr>
         <tr>
             <td align="center">MultiNERD</td>
@@ -503,6 +521,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">134144</td>
             <td align="center">10000</td>
             <td align="center">10000</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">NCBI</td>
@@ -511,6 +530,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">5432</td>
             <td align="center">923</td>
             <td align="center">940</td>
+            <td align="center"><a href="https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/">Link</a></td>
         </tr>
         <tr>
             <td align="center">OntoNotes 5.0</td>
@@ -519,6 +539,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">59924</td>
             <td align="center">8528</td>
             <td align="center">8262</td>
+            <td align="center"><a href="https://catalog.ldc.upenn.edu/LDC2013T19">Link</a></td>
         </tr>
         <tr>
             <td align="center">ShARe13</td>
@@ -527,6 +548,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">8508</td>
             <td align="center">12050</td>
             <td align="center">9009</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">ShARe14</td>
@@ -535,6 +557,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">17404</td>
             <td align="center">1360</td>
             <td align="center">15850</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">SNAP<sup>*<sup></td>
@@ -543,14 +566,16 @@ A taxonomy by Learning Paradigms.
             <td align="center">4290</td>
             <td align="center">1432</td>
             <td align="center">1459</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td align="center">TTC</td>
+            <td align="center">Temporal Twitter Corpus (TTC)</td>
             <td align="center">Social Meida</td>
             <td align="center">3</td>
             <td align="center">10000</td>
             <td align="center">500</td>
             <td align="center">1500</td>
+            <td aligh="center"><a href="https://github.com/shrutirij/temporal-twitter-corpus">Link</a></td>
         </tr>
         <tr>
             <td align="center">Tweebank-NER</td>
@@ -559,6 +584,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">1639</td>
             <td align="center">710</td>
             <td align="center">1201</td>
+            <td aligh="center"><a href="https://github.com/mit-ccc/TweebankNLP">Link</a></td>
         </tr>
         <tr>
             <td align="center">Twitter2015<sup>*<sup></td>
@@ -567,6 +593,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">4000</td>
             <td align="center">1000</td>
             <td align="center">3357</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">Twitter2017<sup>*<sup></td>
@@ -575,6 +602,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">3373</td>
             <td align="center">723</td>
             <td align="center">723</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">TwitterNER7</td>
@@ -583,6 +611,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">7111</td>
             <td align="center">886</td>
             <td align="center">576</td>
+            <td aligh="center"><a href="https://huggingface.co/datasets/tner/tweetner7">Link</a></td>
         </tr>
         <tr>
             <td align="center">WikiDiverse<sup>*<sup></td>
@@ -591,6 +620,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">6312</td>
             <td align="center">755</td>
             <td align="center">757</td>
+            <td aligh="center"><a href="https://github.com/wangxw5/wikidiverse?tab=readme-ov-file#get-the-data">Link</a></td>
         </tr>
         <tr>
             <td align="center">WNUT2017</td>
@@ -599,6 +629,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">3394</td>
             <td align="center">1009</td>
             <td align="center">1287</td>
+            <td aligh="center"><a href="https://tianchi.aliyun.com/dataset/144349">Link</a></td>
         </tr>
         <tr>
             <td align="center" rowspan="11"><strong>RE</strong></td>
@@ -608,6 +639,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">10051</td>
             <td align="center">2420</td>
             <td align="center">2050</td>
+            <td align="center"><a href="https://catalog.ldc.upenn.edu/LDC2006T06">Link</a></td>
         </tr>
         <tr>
             <td align="center">ADE</td>
@@ -616,6 +648,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">3417</td>
             <td align="center">427</td>
             <td align="center">428</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">CoNLL04</td>
@@ -624,6 +657,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">922</td>
             <td align="center">231</td>
             <td align="center">288</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">DocRED</td>
@@ -632,6 +666,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">3008</td>
             <td align="center">300</td>
             <td align="center">700</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">MNRE<sup>*<sup></td>
@@ -640,6 +675,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">12247</td>
             <td align="center">1624</td>
             <td align="center">1614</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">NYT</td>
@@ -648,6 +684,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">56196</td>
             <td align="center">5000</td>
             <td align="center">5000</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">Re-TACRED</td>
@@ -656,6 +693,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">58465</td>
             <td align="center">19584</td>
             <td align="center">13418</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">SciERC</td>
@@ -664,6 +702,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">1366</td>
             <td align="center">187</td>
             <td align="center">397</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">SemEval2010</td>
@@ -672,6 +711,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">6507</td>
             <td align="center">1493</td>
             <td align="center">2717</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">TACRED</td>
@@ -680,6 +720,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">68124</td>
             <td align="center">22631</td>
             <td align="center">15509</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">TACREV</td>
@@ -688,6 +729,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">68124</td>
             <td align="center">22631</td>
             <td align="center">15509</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center" rowspan="7"><strong>EE</strong></td>
@@ -697,6 +739,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">17172</td>
             <td align="center">923</td>
             <td align="center">832</td>
+            <td align="center"><a href="https://catalog.ldc.upenn.edu/LDC2006T06">Link</a></td>
         </tr>
         <tr>
             <td align="center">CASIE</td>
@@ -705,6 +748,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">11189</td>
             <td align="center">1778</td>
             <td align="center">3208</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">GENIA11</td>
@@ -713,6 +757,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">8730</td>
             <td align="center">1091</td>
             <td align="center">1092</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">GENIA13</td>
@@ -721,6 +766,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">4000</td>
             <td align="center">500</td>
             <td align="center">500</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">PHEE</td>
@@ -729,6 +775,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">2898</td>
             <td align="center">961</td>
             <td align="center">968</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">RAMS</td>
@@ -737,6 +784,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">7329</td>
             <td align="center">924</td>
             <td align="center">871</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">WikiEvents</td>
@@ -745,6 +793,7 @@ A taxonomy by Learning Paradigms.
             <td align="center">5262</td>
             <td align="center">378</td>
             <td align="center">492</td>
+            <td align="center"></td>
         </tr>
     </tbody>
 </table>
