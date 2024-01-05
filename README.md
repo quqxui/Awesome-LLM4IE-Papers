@@ -372,7 +372,7 @@ The link will be updated soon~
             <td align="center">4560</td>
             <td align="center">4581</td>
             <td align="center">4797</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/">Link</a></td>
         </tr>
         <tr>
             <td align="center">Broad Twitter Corpus</td>
@@ -390,7 +390,7 @@ The link will be updated soon~
             <td align="center">5340</td>
             <td align="center">1097</td>
             <td align="center">1160</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://data.csiro.au/collection/csiro:10948?v=3&d=true">Link</a></td>
         </tr>
         <tr>
             <td align="center">CoNLL03</td>
@@ -458,7 +458,7 @@ The link will be updated soon~
             <td align="center">9435</td>
             <td align="center">2182</td>
             <td align="center">2064</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://huggingface.co/datasets/DFKI-SLT/fabner">Link</a></td>
         </tr>
         <tr>
             <td align="center">Few-NERD</td>
@@ -485,7 +485,7 @@ The link will be updated soon~
             <td align="center">15023</td>
             <td align="center">1669</td>
             <td align="center">1854</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://github.com/ljynlp/W2NER?tab=readme-ov-file#3-dataset">Link</a></td>
         </tr>
         <tr>
             <td align="center">HarveyNER</td>
@@ -521,7 +521,7 @@ The link will be updated soon~
             <td align="center">134144</td>
             <td align="center">10000</td>
             <td align="center">10000</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://github.com/Babelscape/multinerd">Link</a></td>
         </tr>
         <tr>
             <td align="center">NCBI</td>
@@ -548,7 +548,7 @@ The link will be updated soon~
             <td align="center">8508</td>
             <td align="center">12050</td>
             <td align="center">9009</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://physionet.org/content/shareclefehealth2013/1.0/">Link</a></td>
         </tr>
         <tr>
             <td align="center">ShARe14</td>
@@ -557,7 +557,7 @@ The link will be updated soon~
             <td align="center">17404</td>
             <td align="center">1360</td>
             <td align="center">15850</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://physionet.org/content/shareclefehealth2014task2/1.0/">Link</a></td>
         </tr>
         <tr>
             <td align="center">SNAP<sup>*<sup></td>
@@ -648,7 +648,7 @@ The link will be updated soon~
             <td align="center">3417</td>
             <td align="center">427</td>
             <td align="center">428</td>
-            <td align="center"></td>
+            <td align="center"><a href="http://lavis.cs.hs-rm.de/storage/spert/public/datasets/ade/">Link</a></td>
         </tr>
         <tr>
             <td align="center">CoNLL04</td>
@@ -657,7 +657,7 @@ The link will be updated soon~
             <td align="center">922</td>
             <td align="center">231</td>
             <td align="center">288</td>
-            <td align="center"></td>
+            <td align="center"><a href="http://lavis.cs.hs-rm.de/storage/spert/public/datasets/conll04/">Link</a></td>
         </tr>
         <tr>
             <td align="center">DocRED</td>
@@ -666,7 +666,7 @@ The link will be updated soon~
             <td align="center">3008</td>
             <td align="center">300</td>
             <td align="center">700</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://github.com/thunlp/DocRED">Link</a></td>
         </tr>
         <tr>
             <td align="center">MNRE<sup>*<sup></td>
@@ -675,7 +675,7 @@ The link will be updated soon~
             <td align="center">12247</td>
             <td align="center">1624</td>
             <td align="center">1614</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://github.com/thecharm/MNRE">Link</a></td>
         </tr>
         <tr>
             <td align="center">NYT</td>
@@ -684,7 +684,7 @@ The link will be updated soon~
             <td align="center">56196</td>
             <td align="center">5000</td>
             <td align="center">5000</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://github.com/thunlp/OpenNRE/blob/master/benchmark/download_nyt10.sh">Link</a></td>
         </tr>
         <tr>
             <td align="center">Re-TACRED</td>
@@ -693,7 +693,7 @@ The link will be updated soon~
             <td align="center">58465</td>
             <td align="center">19584</td>
             <td align="center">13418</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://github.com/gstoica27/Re-TACRED">Link</a></td>
         </tr>
         <tr>
             <td align="center">SciERC</td>
@@ -702,7 +702,7 @@ The link will be updated soon~
             <td align="center">1366</td>
             <td align="center">187</td>
             <td align="center">397</td>
-            <td align="center"></td>
+            <td align="center"><a href="http://lavis.cs.hs-rm.de/storage/spert/public/datasets/scierc/">Link</a></td>
         </tr>
         <tr>
             <td align="center">SemEval2010</td>
@@ -711,7 +711,7 @@ The link will be updated soon~
             <td align="center">6507</td>
             <td align="center">1493</td>
             <td align="center">2717</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://github.com/thunlp/OpenNRE/blob/master/benchmark/download_semeval.sh">Link</a></td>
         </tr>
         <tr>
             <td align="center">TACRED</td>
@@ -720,7 +720,7 @@ The link will be updated soon~
             <td align="center">68124</td>
             <td align="center">22631</td>
             <td align="center">15509</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://nlp.stanford.edu/projects/tacred/">Link</a></td>
         </tr>
         <tr>
             <td align="center">TACREV</td>
@@ -729,7 +729,7 @@ The link will be updated soon~
             <td align="center">68124</td>
             <td align="center">22631</td>
             <td align="center">15509</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://github.com/DFKI-NLP/tacrev">Link</a></td>
         </tr>
         <tr>
             <td align="center" rowspan="7"><strong>EE</strong></td>
@@ -748,7 +748,7 @@ The link will be updated soon~
             <td align="center">11189</td>
             <td align="center">1778</td>
             <td align="center">3208</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://github.com/Ebiquity/CASIE">Link</a></td>
         </tr>
         <tr>
             <td align="center">GENIA11</td>
@@ -757,7 +757,7 @@ The link will be updated soon~
             <td align="center">8730</td>
             <td align="center">1091</td>
             <td align="center">1092</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://bionlp-st.dbcls.jp/GE/2011/eval-test/">Link</a></td>
         </tr>
         <tr>
             <td align="center">GENIA13</td>
@@ -766,7 +766,7 @@ The link will be updated soon~
             <td align="center">4000</td>
             <td align="center">500</td>
             <td align="center">500</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://bionlp-st.dbcls.jp/GE/2013/eval-test/">Link</a></td>
         </tr>
         <tr>
             <td align="center">PHEE</td>
@@ -775,7 +775,7 @@ The link will be updated soon~
             <td align="center">2898</td>
             <td align="center">961</td>
             <td align="center">968</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://github.com/ZhaoyueSun/PHEE">Link</a></td>
         </tr>
         <tr>
             <td align="center">RAMS</td>
@@ -784,7 +784,7 @@ The link will be updated soon~
             <td align="center">7329</td>
             <td align="center">924</td>
             <td align="center">871</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://nlp.jhu.edu/rams/">Link</a></td>
         </tr>
         <tr>
             <td align="center">WikiEvents</td>
@@ -793,7 +793,7 @@ The link will be updated soon~
             <td align="center">5262</td>
             <td align="center">378</td>
             <td align="center">492</td>
-            <td align="center"></td>
+            <td align="center"><a href="https://github.com/raspberryice/gen-arg">Link</a></td>
         </tr>
     </tbody>
 </table>
