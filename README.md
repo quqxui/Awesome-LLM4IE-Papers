@@ -10,7 +10,7 @@ Awesome papers about generative Information extraction using LLMs
 
 The organization of papers is discussed in our survey: [Large Language Models for Generative Information Extraction: A Survey](https://arxiv.org/abs/2312.17617). 
 
-If you have any suggestions or come across any mistakes, missing information, please feel free to let us know via email at **derongxu@mail.ustc.edu.cn**. We appreciate your feedback and help in improving our work.
+If you have any suggestions or come across any mistakes, missing information, please feel free to let us know via email at **derongxu@mail.ustc.edu.cn** and **chenweicw@mail.ustc.edu.cn**. We appreciate your feedback and help in improving our work.
 
 If you find our survey useful for your research, please cite the following paper:
 
