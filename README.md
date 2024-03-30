@@ -42,7 +42,8 @@ If you find our survey useful for your research, please cite the following paper
 ## 💡 News
 - **Update Logs**
     - The details can be find in <code>./update_new_papers_list</code>.
-    - **2024/03/29:** Add 20 papers
+    - **2024/03/30** Add 27 papers
+    - **2024/03/29** Add 20 papers
 
 # Information Extraction tasks
 A taxonomy by various tasks.
@@ -57,6 +58,14 @@ Models targeting only ner tasks.
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
 | [LinkNER: Linking Local Named Entity Recognition Models to Large Language Models using Uncertainty](https://arxiv.org/abs/2402.10573) | WWW | 2024 | 
+| [ConsistNER: Towards Instructive NER Demonstrations for LLMs with the Consistency of Ontology and Context](https://ojs.aaai.org/index.php/AAAI/article/view/29892)| AAAI | 2024-03 | 
+| [Embedded Named Entity Recognition using Probing Classifiers](https://arxiv.org/abs/2403.11747) | Arxiv | 2024-03 | [GitHub](https://github.com/nicpopovic/EMBER) |
+| [ProgGen: Generating Named Entity Recognition Datasets Step-by-step with Self-Reflexive Large Language Models](https://arxiv.org/abs/2403.11103) | Arxiv | 2024-03 | [GitHub](https://github.com/StefanHeng/ProgGen) |
+| [Rethinking Negative Instances for Generative Named Entity Recognition](https://arxiv.org/abs/2402.16602) |  Arxiv | 2024-02 | [GitHub](https://github.com/yyDing1/GNER) |
+| [NuNER: Entity Recognition Encoder Pre-training via LLM-Annotated Data](https://arxiv.org/abs/2402.15343) |  Arxiv | 2024-02 | 
+| [VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models](https://arxiv.org/abs/2402.18374) | Arxiv | 2024-02 | 
+| [A Simple but Effective Approach to Improve Structured Language Model Output for Information Extraction](https://arxiv.org/abs/2402.13364) | Arxiv | 2024-02 | 
+| [PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition](https://arxiv.org/abs/2402.04838) | Arxiv | 2024-02 |
 | [Small Language Model Is a Good Guide for Large Language Model in Chinese Entity Relation Extraction](https://arxiv.org/abs/2402.14373) | Arxiv | 2024-02 | |
 | [C-ICL: Contrastive In-context Learning for Information Extraction](https://arxiv.org/abs/2402.11254) | Arxiv | 2024-02 | 
 |  [UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition](https://openreview.net/pdf?id=r65xfUb76p)  |   ICLR    |  2024-01   |  [GitHub](https://github.com/universal-ner/universal-ner)  |
@@ -77,6 +86,8 @@ Models targeting only ner tasks.
 |  [Debiasing Generative Named Entity Recognition by Calibrating Sequence Likelihood](https://aclanthology.org/2023.acl-short.98/)  |   ACL Short    |  2023-07   |    |
 |  [Entity-to-Text based Data Augmentation for various Named Entity Recognition Tasks](https://aclanthology.org/2023.findings-acl.578/)  |   ACL Findings     |  2023-07   |    |
 |  [Large Language Models as Instructors: A Study on Multilingual Clinical Entity Extraction](https://aclanthology.org/2023.bionlp-1.15/)  |   BioNLP    |  2023-07   |  [GitHub](https://github.com/arkhn/bio-nlp2023)  |
+| [NAG-NER: a Unified Non-Autoregressive Generation Framework for Various NER Tasks](https://aclanthology.org/2023.acl-industry.65/) | ACL Industry | 2023-07 | 
+| [Unified Named Entity Recognition as Multi-Label Sequence Generation](https://ieeexplore.ieee.org/abstract/document/10191921) |  IJCNN | 2023-06 | 
 |  [PromptNER : Prompting For Named Entity Recognition](https://arxiv.org/abs/2305.15444)  |   Arxiv    |  2023-06   |    |
 |  [Does Synthetic Data Generation of LLMs Help Clinical Text Mining?](https://arxiv.org/abs/2303.04360)  |   Arxiv    |  2023-04   |    |
 |  [Structured information extraction from complex scientific text with fine-tuned large language models](https://arxiv.org/abs/2212.05238)  |   Arxiv    |  2022-12   |  [Demo](http://www.matscholar.com/info-extraction)  |
@@ -91,29 +102,40 @@ Models targeting only RE tasks.
 ### Relation Classification
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+|  [STAR: Boosting Low-Resource Information Extraction by Structure-to-Text Data Generation with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29839)  |  AAAI  |  2024-03 |  |
 | [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/abs/2402.11142) | Arxiv | 2024-02 |   
 | [Chain of Thought with Explicit Evidence Reasoning for Few-shot Relation Extraction](https://aclanthology.org/2023.findings-emnlp.153/) | EMNLP Findings | 2023-12 | |
-|  [GPT-RE: In-context Learning for Relation Extraction using Large Language Models](https://arxiv.org/abs/2305.02105)  |   EMNLP    |  2023-12   | [GitHub](https://github.com/YukinoWan/GPT-RE) |
-|  [Guideline Learning for In-context Information Extraction](https://arxiv.org/abs/2310.05066)  |   EMNLP    |  2023-12   |  |
-|  [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)  |   EMNLP Findings    |  2023-12   | [GitHub](https://github.com/mayubo2333/LLM-IE) |
+|  [GPT-RE: In-context Learning for Relation Extraction using Large Language Models](https://arxiv.org/abs/2305.02105)  |   EMNLP  |  2023-12   | [GitHub](https://github.com/YukinoWan/GPT-RE) |
+|  [Guideline Learning for In-context Information Extraction](https://arxiv.org/abs/2310.05066)  |   EMNLP  |  2023-12   |  |
+|  [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)  |   EMNLP Findings | 2023-12 | [GitHub](https://github.com/mayubo2333/LLM-IE) |
 |  [LLMaAA: Making Large Language Models as Active Annotators](https://arxiv.org/abs/2310.19596)  |   EMNLP Findings    |  2023-12   | [GitHub](https://github.com/ridiculouz/LLMAAA) |
 |  [Improving Unsupervised Relation Extraction by Augmenting Diverse Sentence Pairs](https://arxiv.org/abs/2312.00552)  |   EMNLP    |  2023-12   | [GitHub](https://github.com/qingwang-isu/AugURE) |
-|  [Revisiting Large Language Models as Zero-shot Relation Extractors](https://arxiv.org/abs/2310.05028)  |   EMNLP Findings    |  2023-12   |  |
-|  [Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors](https://aclanthology.org/2023.findings-acl.50.pdf)  |   ACL Findings    |  2023-07   | [GitHub](https://github.com/OSU-NLP-Group/QA4RE) |
-|  [How to Unleash the Power of Large Language Models for Few-shot Relation Extraction?](https://arxiv.org/abs/2305.01555)  |   ACL Workshop    |  2023-07   | [GitHub](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE) |
-|  [STAR: Boosting Low-Resource Information Extraction by Structure-to-Text Data Generation with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29839)  |     AAAI     |  2024-03   |  |
+|  [Revisiting Large Language Models as Zero-shot Relation Extractors](https://arxiv.org/abs/2310.05028)  |   EMNLP Findings |  2023-12   |  |
+| [Mastering the Task of Open Information Extraction with Large Language Models and Consistent Reasoning Environment](https://arxiv.org/abs/2310.10590) | Arxiv | 2023-10 | 
+|  [Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors](https://aclanthology.org/2023.findings-acl.50.pdf)  |  ACL Findings  |  2023-07   | [GitHub](https://github.com/OSU-NLP-Group/QA4RE) |
+|  [How to Unleash the Power of Large Language Models for Few-shot Relation Extraction?](https://arxiv.org/abs/2305.01555)  |   ACL Workshop  |  2023-07   | [GitHub](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE) |
+| [Sequence generation with label augmentation for relation extraction](https://ojs.aaai.org/index.php/AAAI/article/view/26532)| AAAI | 2023-06 | [GitHub](https://github.com/pkuserc/RELA) |
 |  [Does Synthetic Data Generation of LLMs Help Clinical Text Mining?](https://arxiv.org/abs/2303.04360)  |   Arxiv    |  2023-04   |  |
+| [DORE: Document Ordered Relation Extraction based on Generative Framework](https://aclanthology.org/2022.findings-emnlp.253/) |  EMNLP Findings | 2022-12 |
 |  [REBEL: Relation Extraction By End-to-end Language generation](https://aclanthology.org/2021.findings-emnlp.204/)  |    EMNLP Findings      |   2021-11   | [GitHub](https://github.com/babelscape/rebel) |
 ### Relation Triplet
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+| [Consistency Guided Knowledge Retrieval and Denoising in LLMs for Zero-shot Document-level Relation Triplet Extraction](https://arxiv.org/abs/2401.13598) | WWW | 2024 |
 | [Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction](https://arxiv.org/abs/2402.13741) | COLING | 2024 | |
+| [ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis](https://arxiv.org/abs/2403.06932) |  Arxiv | 2024-03 | [GitHub](https://github.com/OceannTwT/era-cot) |
+| [AutoRE: Document-Level Relation Extraction with Large Language Models](https://arxiv.org/abs/2403.14888) | Arxiv | 2024-03 | [GitHub](https://github.com/bigdante/AutoRE) |
+| [A Simple but Effective Approach to Improve Structured Language Model Output for Information Extraction](https://arxiv.org/abs/2402.13364) |  Arxiv | 2024-02 | 
 | [Document-Level In-Context Few-Shot Relation Extraction via Pre-Trained Language Models](https://arxiv.org/abs/2310.11085) | Arxiv | 2024-02 | [GitHub](https://github.com/oezyurty/REPLM) |
 | [Small Language Model Is a Good Guide for Large Language Model in Chinese Entity Relation Extraction](https://arxiv.org/abs/2402.14373) | Arxiv | 2024-02 | |
+| [Efficient Data Learning for Open Information Extraction with Pre-trained Language Models](https://aclanthology.org/2023.findings-emnlp.869/) | EMNLP Findings | 2023-12 | 
+| [Mastering the Task of Open Information Extraction with Large Language Models and Consistent Reasoning Environment](https://arxiv.org/abs/2310.10590) | Arxiv | 2023-10 | 
+
 |  [Document-level Entity-based Extraction as Template Generation](https://aclanthology.org/2021.emnlp-main.426/)  |    EMNLP      | 2021-11    | [GitHub](https://github.com/PlusLabNLP/TempGen) |
 ### Relation Strict
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+| [An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/29919) | AAAI | 2024-03 | [GitHub](https://github.com/urchade/ATG) |
 | [C-ICL: Contrastive In-context Learning for Information Extraction](https://arxiv.org/abs/2402.11254) | Arxiv | 2024-02 | 
 |  [REBEL: Relation Extraction By End-to-end Language generation](https://aclanthology.org/2021.findings-emnlp.204/)  |    EMNLP Findings      |   2021-11   | [GitHub](https://github.com/babelscape/rebel) |
 ## Event Extraction 
@@ -121,6 +143,7 @@ Models targeting only EE tasks.
 ### Event Detection
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+| [Mastering the Task of Open Information Extraction with Large Language Models and Consistent Reasoning Environment](https://arxiv.org/abs/2310.10590) |  Arxiv | 2023-10 | 
 |  [Unleash GPT-2 Power for Event Detection](https://aclanthology.org/2021.acl-long.490.pdf)  |    ACL      |  2021-08   | []() |
 ### Event Argument Extraction
 |  Paper  |      Venue    |   Date  | Code |
@@ -165,6 +188,7 @@ Unified models targeting multiple IE tasks.
 ### Code-LLMs based
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+| [KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction](https://arxiv.org/abs/2403.07969) | Arxiv | 2024-03 | [GitHub](https://ict-goknow.github.io/knowcoder/) |
 |  [GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction](https://openreview.net/pdf?id=Y3wpuxd7u9)  |     ICLR     |  2024-1   | [GitHub](https://github.com/hitz-zentroa/GoLLIE) |
 |  [Retrieval-Augmented Code Generation for Universal Information Extraction](https://arxiv.org/abs/2311.02962)  |      Arxiv    |   2023-11  | []() |
 |  [CODEIE: Large Code Generation Models are Better Few-Shot Information Extractors](https://arxiv.org/abs/2305.05711)  |       ACL   |   2023-07 | [GitHub](https://github.com/artpli/CodeIE) |
@@ -174,10 +198,16 @@ A taxonomy by Learning Paradigms.
 ## Supervised Fine-tuning
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+| [An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/29919) | AAAI | 2024-03 | [GitHub](https://github.com/urchade/ATG) |
+| [AutoRE: Document-Level Relation Extraction with Large Language Models](https://arxiv.org/abs/2403.14888) | Arxiv | 2024-03 | [GitHub](https://github.com/bigdante/AutoRE) |
+| [Embedded Named Entity Recognition using Probing Classifiers](https://arxiv.org/abs/2403.11747) | Arxiv | 2024-03 | [GitHub](https://github.com/nicpopovic/EMBER) |
 | [EventRL: Enhancing Event Extraction with Outcome Supervision for Large Language Models](https://arxiv.org/abs/2402.11430) | Arxiv | 2024-02 |
+| [PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition](https://arxiv.org/abs/2402.04838) | Arxiv | 2024-02 |
+| [Rethinking Negative Instances for Generative Named Entity Recognition](https://arxiv.org/abs/2402.16602) |  Arxiv | 2024-02 | [GitHub](https://github.com/yyDing1/GNER) |
 |  [UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition](https://openreview.net/pdf?id=r65xfUb76p)  |   ICLR       |   2024-01  | [GitHub](https://github.com/universal-ner/universal-ner) |
 |  [GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction](https://openreview.net/pdf?id=Y3wpuxd7u9)  |     ICLR     |  2024-1   | [GitHub](https://github.com/hitz-zentroa/GoLLIE) |
 |  [Set Learning for Generative Information Extraction](https://aclanthology.org/2023.emnlp-main.806.pdf)  |    EMNLP      |   2023-12  | []() |
+| [Efficient Data Learning for Open Information Extraction with Pre-trained Language Models](https://aclanthology.org/2023.findings-emnlp.869/) | EMNLP Findings | 2023-12 | 
 |  [DemoSG: Demonstration-enhanced Schema-guided Generation for Low-resource Event Extraction](https://aclanthology.org/2023.findings-emnlp.121) |     EMNLP Findings     | 2023-12    | [GitHub](https://github.com/GangZhao98/DemoSG) |
 |  [Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing](https://aclanthology.org/2023.findings-emnlp.1040/)  |     EMNLP Findings    |   2023-12  | []() |
 |  [GIELLM: Japanese General Information Extraction Large Language Model Utilizing Mutual Reinforcement Effect](https://arxiv.org/abs/2311.06838)  |   Arxiv       |  2023-11   | []() |
@@ -187,9 +217,13 @@ A taxonomy by Learning Paradigms.
 |  [Debiasing Generative Named Entity Recognition by Calibrating Sequence Likelihood](https://aclanthology.org/2023.acl-short.98/)  |     ACL short    |  2023-07   | []() |
 |  [DICE: Data-Efficient Clinical Event Extraction with Generative Models](https://aclanthology.org/2023.acl-long.886.pdf)  |      ACL    |  2023-07   | [GitHub](https://github.com/derekmma/DICE) |
 |  [Event Extraction as Question Generation and Answering](https://aclanthology.org/2023.acl-short.143.pdf)  |    ACL short      | 2023-07    | [GitHub](https://github.com/dataminr-ai/Event-Extraction-as-Question-Generation-and-Answering) |
+| [NAG-NER: a Unified Non-Autoregressive Generation Framework for Various NER Tasks](https://aclanthology.org/2023.acl-industry.65/) | ACL Industry | 2023-07 | 
+| [Sequence generation with label augmentation for relation extraction](https://ojs.aaai.org/index.php/AAAI/article/view/26532)| AAAI | 2023-06 | [GitHub](https://github.com/pkuserc/RELA) |
+| [Unified Named Entity Recognition as Multi-Label Sequence Generation](https://ieeexplore.ieee.org/abstract/document/10191921) |  IJCNN | 2023-06 | 
 |  [InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction](https://arxiv.org/abs/2304.08085)  |    Arxiv      |  2023-04   | [GitHub](https://github.com/BeyonderXX/InstructUIE) |
 |  [Structured information extraction from complex scientific text with fine-tuned large language models](https://arxiv.org/abs/2212.05238)  |    Arxiv      |  2022-12   | [Demo](http://www.matscholar.com/info-extraction) |
 |  [Generative Entity Typing with Curriculum Learning](https://arxiv.org/abs/2210.02914)  |     EMNLP     |  2022-12   | [GitHub](https://github.com/siyuyuan/GET) |
+| [DORE: Document Ordered Relation Extraction based on Generative Framework](https://aclanthology.org/2022.findings-emnlp.253/) |  EMNLP Findings | 2022-12 |
 |  [LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model](https://openreview.net/pdf?id=a8qX5RG36jd)  |     NeurIPS     |   2022-10  | [GitHub](https://github.com/ChocoWu/LasUIE) |
 |  [LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting](https://aclanthology.org/2022.coling-1.209/) | COLING |  2022-10 |  [GitHub](https://github.com/zjunlp/DeepKE/tree/main/example/ner/few-shot) |
 |  [GenIE: Generative Information Extraction](https://aclanthology.org/2022.naacl-main.342.pdf)  |     NAACL     |   2022-07  | [GitHub](https://github.com/epfl-dlab/GenIE) |
@@ -221,6 +255,7 @@ A taxonomy by Learning Paradigms.
 ### In-Context Learning
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+| [ConsistNER: Towards Instructive NER Demonstrations for LLMs with the Consistency of Ontology and Context](https://ojs.aaai.org/index.php/AAAI/article/view/29892)| AAAI | 2024-03 | 
 |  [CodeKGC: Code Language Model for Generative Knowledge Graph Construction](https://dl.acm.org/doi/abs/10.1145/3641850)  |    ACM TALLIP      |   2024-03  | [GitHub](https://github.com/zjunlp/DeepKE/tree/main/example/llm/CodeKGC) |
 | [Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction](https://arxiv.org/abs/2402.13741) |  COLING | 2024 | |
 | [Document-Level In-Context Few-Shot Relation Extraction via Pre-Trained Language Models](https://arxiv.org/abs/2310.11085) | Arxiv | 2024-02 | [GitHub](https://github.com/oezyurty/REPLM) |
@@ -233,6 +268,7 @@ A taxonomy by Learning Paradigms.
 |  [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)  |     EMNLP Findings     | 2023-12    | [GitHub](https://github.com/mayubo2333/LLM-IE) |
 |  [Retrieval-Augmented Code Generation for Universal Information Extraction](https://arxiv.org/abs/2311.02962)  |      Arxiv    |   2023-11  | []() |
 |  [Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models](https://arxiv.org/abs/2311.08921)  |Arxiv    |   2023-11   | []() |
+| [Mastering the Task of Open Information Extraction with Large Language Models and Consistent Reasoning Environment](https://arxiv.org/abs/2310.10590) | Arxiv | 2023-10 | 
 |  [GPT-NER: Named Entity Recognition via Large Language Models](https://arxiv.org/abs/2304.10428)  |    Arxiv    |   2023-10   | [GitHub](https://github.com/ShuheWang1998/GPT-NER) |
 | [GPT Struct Me: Probing GPT Models on Narrative Entity Extraction](https://ieeexplore.ieee.org/abstract/document/10350182) | WI-IAT | 2023-10 | [GitHub](https://github.com/hmosousa/gpt_struct_me) |
 | [Learning In-context Learning for Named Entity Recognition ](https://aclanthology.org/2023.acl-long.764/) | ACL | 2023-07 | [GitHub](https://github.com/chen700564/metaner-icl) |
@@ -246,6 +282,9 @@ A taxonomy by Learning Paradigms.
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
 | [CodeKGC: Code Language Model for Generative Knowledge Graph Construction](https://dl.acm.org/doi/abs/10.1145/3641850)  |    ACM TALLIP      |   2024-03    | [GitHub](https://github.com/zjunlp/DeepKE/tree/main/example/llm/CodeKGC) |
+| [ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis](https://arxiv.org/abs/2403.06932) |  Arxiv | 2024-03 | [GitHub](https://github.com/OceannTwT/era-cot) |
+| [A Simple but Effective Approach to Improve Structured Language Model Output for Information Extraction](https://arxiv.org/abs/2402.13364) |  Arxiv | 2024-02 | 
+| [A Simple but Effective Approach to Improve Structured Language Model Output for Information Extraction](https://arxiv.org/abs/2402.13364) | Arxiv | 2024-02 | 
 | [Small Language Model Is a Good Guide for Large Language Model in Chinese Entity Relation Extraction](https://arxiv.org/abs/2402.14373) | Arxiv | 2024-02 | |
 | [Improving Unsupervised Relation Extraction by Augmenting Diverse Sentence Pairs](https://arxiv.org/abs/2312.00552)   |   EMNLP       |    2023-12  | [GitHub](https://github.com/qingwang-isu/AugURE) |
 | [Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models](https://arxiv.org/abs/2311.08921)   |   Arxiv       |  2023-11    | []() |
@@ -259,11 +298,13 @@ A taxonomy by Learning Paradigms.
 ### Cross-Domain Learning
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
-|  [GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction](https://openreview.net/pdf?id=Y3wpuxd7u9)  |     ICLR     |  2024-1   | [GitHub](https://github.com/hitz-zentroa/GoLLIE) |
-|  [UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition](https://openreview.net/pdf?id=r65xfUb76p)  |  ICLR        |   2024-01  | [GitHub](https://github.com/universal-ner/universal-ner) |
-|  [InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction](https://arxiv.org/abs/2304.08085)  |     Arxiv     |  2023-04   | [GitHub](https://github.com/BeyonderXX/InstructUIE) |
-|  [DEEPSTRUCT: Pretraining of Language Models for Structure Prediction](https://aclanthology.org/2022.findings-acl.67/)  |   ACL Findings       |  2022-05   | [GitHub](https://github.com/wang-research-lab/deepstruct) |
-|  [Multilingual generative language models for zero-shot cross-lingual event argument extraction](https://aclanthology.org/2022.acl-long.317.pdf)  |      ACL   |  2022-05    | [GitHub](https://github.com/PlusLabNLP/X-Gear) |
+|  [VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models](https://arxiv.org/abs/2402.18374) | Arxiv | 2024-02 | 
+|  [Rethinking Negative Instances for Generative Named Entity Recognition](https://arxiv.org/abs/2402.16602) |  Arxiv | 2024-02 | [GitHub](https://github.com/yyDing1/GNER) |
+|  [GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction](https://openreview.net/pdf?id=Y3wpuxd7u9)  |  ICLR  |  2024-01   | [GitHub](https://github.com/hitz-zentroa/GoLLIE) |
+|  [UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition](https://openreview.net/pdf?id=r65xfUb76p)  |  ICLR  |   2024-01  | [GitHub](https://github.com/universal-ner/universal-ner) |
+|  [InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction](https://arxiv.org/abs/2304.08085)  |   Arxiv   |  2023-04   | [GitHub](https://github.com/BeyonderXX/InstructUIE) |
+|  [DEEPSTRUCT: Pretraining of Language Models for Structure Prediction](https://aclanthology.org/2022.findings-acl.67/)  |   ACL Findings   |  2022-05   | [GitHub](https://github.com/wang-research-lab/deepstruct) |
+|  [Multilingual generative language models for zero-shot cross-lingual event argument extraction](https://aclanthology.org/2022.acl-long.317.pdf)  |  ACL  |  2022-05 | [GitHub](https://github.com/PlusLabNLP/X-Gear) |
 ### Cross-Type Learning
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
@@ -272,6 +313,7 @@ A taxonomy by Learning Paradigms.
 ### Data Annotation
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+| [NuNER: Entity Recognition Encoder Pre-training via LLM-Annotated Data](https://arxiv.org/abs/2402.15343) |  Arxiv | 2024-02 | 
 |  [LLMaAA: Making Large Language Models as Active Annotators](https://arxiv.org/abs/2310.19596)  |   EMNLP Findings       |  2023-12   | [GitHub](https://github.com/ridiculouz/LLMAAA) |
 |  [Improving Unsupervised Relation Extraction by Augmenting Diverse Sentence Pairs](https://arxiv.org/abs/2312.00552)  |      EMNLP    |  2023-12   | [GitHub](https://github.com/qingwang-isu/AugURE) |
 |  [Semi-automatic Data Enhancement for Document-Level Relation Extraction with Distant Supervision from Large Language Models](https://aclanthology.org/2023.emnlp-main.334.pdf)  |    EMNLP      |  2023-12   | [GitHub](https://github.com/bigai-nlco/DocGNRE) |
@@ -282,12 +324,14 @@ A taxonomy by Learning Paradigms.
 ### Knowledge Retrieval 
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
-|  [Learning to Rank Context for Named Entity Recognition Using a Synthetic Dataset](https://arxiv.org/abs/2310.10118)  |    EMNLP      |  2023-12   | [GitHub](https://github.com/CompNet/conivel/tree/gen) |
-|  [Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge](https://arxiv.org/abs/2305.12212)  |  EMNLP Findings        |  2023-12   | [GitHub](https://github.com/JinYuanLi0012/PGIM) |
-|  [Chain-of-Thought Prompt Distillation for Multimodal Named Entity Recognition and Multimodal Relation Extraction](https://arxiv.org/abs/2306.14122)  |     Arxiv     |  2023-08   | []() |
+| [Consistency Guided Knowledge Retrieval and Denoising in LLMs for Zero-shot Document-level Relation Triplet Extraction](https://arxiv.org/abs/2401.13598) | WWW | 2024 |
+|  [Learning to Rank Context for Named Entity Recognition Using a Synthetic Dataset](https://arxiv.org/abs/2310.10118)  |  EMNLP  |  2023-12   | [GitHub](https://github.com/CompNet/conivel/tree/gen) |
+|  [Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge](https://arxiv.org/abs/2305.12212)  |  EMNLP Findings   |  2023-12   | [GitHub](https://github.com/JinYuanLi0012/PGIM) |
+|  [Chain-of-Thought Prompt Distillation for Multimodal Named Entity Recognition and Multimodal Relation Extraction](https://arxiv.org/abs/2306.14122)  |  Arxiv  |  2023-08   | []() |
 ### Inverse Generation
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+| [ProgGen: Generating Named Entity Recognition Datasets Step-by-step with Self-Reflexive Large Language Models](https://arxiv.org/abs/2403.11103) | Arxiv | 2024-03 | [GitHub](https://github.com/StefanHeng/ProgGen) |
 |  [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/abs/2402.11142) | Arxiv | 2024-02 |
 |  [Exploiting Asymmetry for Synthetic Training Data Generation: SynthIE and the Case of Information Extraction](https://arxiv.org/abs/2303.04132)  |   EMNLP       |  2023-12   | [GitHub](https://github.com/epfl-dlab/SynthIE) |
 |  [Entity-to-Text based Data Augmentation for various Named Entity Recognition Tasks](https://aclanthology.org/2023.findings-acl.578/)  |     ACL Findings     |   2023-07  | []() |
@@ -296,9 +340,14 @@ A taxonomy by Learning Paradigms.
 # Specific Domain
 |  Paper  |  Domain |   Venue    |   Date  | Code |
 | :----- | :--------------: | :-------: | :---------: |:---------: |
-|  [Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge](https://arxiv.org/abs/2305.12212)  |   Multimodal      | ENMLP Findings  |  2023-12  | [GitHub](https://github.com/JinYuanLi0012/PGIM) |
-|  [In-context Learning for Few-shot Multimodal Named Entity Recognition](https://aclanthology.org/2023.findings-emnlp.196/)  |     Multimodal    | ENMLP Findings  | 2023-12   |  |
-|  [PolyIE: A Dataset of Information Extraction from Polymer Material Scientific Literature](https://arxiv.org/abs/2311.07715)  |     Polymer Material    | Arxiv  |   2023-11 | [GitHub](https://github.com/jerry3027/PolyIE) |
+| [Advancing Entity Recognition in Biomedicine via Instruction Tuning of Large Language Models]() | Biomedical | Bioinformatics | 2024-03 | [GitHub](https://github.com/BIDS-Xu-Lab/BioNER-LLaMA) |
+| [Improving LLM-Based Health Information Extraction with In-Context Learning](https://link.springer.com/chapter/10.1007/978-981-97-1717-0_4)| Health | Others | 2024-03 |
+| [Structured information extraction from scientific text with large language models](https://www.nature.com/articles/s41467-024-45563-x) | Scientific | Nat. Commun. | 2024-02 | [GitHub](https://github.com/LBNLP/NERRE) |
+| [Combining prompt‑based language models and weak supervision for labeling named entity recognition on legal documents](https://link.springer.com/article/10.1007/s10506-023-09388-1) | Legal | Others  | 2024-02 | 
+| [Impact of Sample Selection on In-Context Learning for Entity Extraction from Scientific Writing](https://aclanthology.org/2023.findings-emnlp.338/)| Scientific | EMNLP Findings | 2023-12 | [GitHub](https://github.com/adalin16/ICL_EE)|
+|  [Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge](https://arxiv.org/abs/2305.12212)  |   Multimodal  | ENMLP Findings  |  2023-12  | [GitHub](https://github.com/JinYuanLi0012/PGIM) |
+|  [In-context Learning for Few-shot Multimodal Named Entity Recognition](https://aclanthology.org/2023.findings-emnlp.196/)  |   Multimodal  | ENMLP Findings  | 2023-12   |  |
+|  [PolyIE: A Dataset of Information Extraction from Polymer Material Scientific Literature](https://arxiv.org/abs/2311.07715)  |   Polymer Material    | Arxiv  |   2023-11 | [GitHub](https://github.com/jerry3027/PolyIE) |
 |  [Prompt-NER: Zero-shot Named Entity Recognition in Astronomy Literature via Large Language Models](https://arxiv.org/abs/2310.17892)  |     Astronomical    | Arxiv  |   2023-10  |  |
 |  [Inspire the Large Language Model by External Knowledge on BioMedical Named Entity Recognition](https://arxiv.org/abs/2309.12278)  |    Biomedical     |  Arxiv  |   2023-09  | |
 |  [Chain-of-Thought Prompt Distillation for Multimodal Named Entity Recognition and Multimodal Relation Extraction](https://arxiv.org/abs/2306.14122)  |    Multimodal     |  Arxiv  |   2023-08  | |
@@ -314,6 +363,9 @@ A taxonomy by Learning Paradigms.
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
 | [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/abs/2305.13168) | Arxiv | 2024-02 | [GitHub](https://github.com/zjunlp/AutoKG)|
+| [IEPile: Unearthing Large-Scale Schema-Based Information Extraction Corpus]() | Arxiv | 2024-02 | [GitHub](https://github.com/zjunlp/IEPile?tab=readme-ov-file) |
+| [Few shot clinical entity recognition in three languages: Masked language models outperform LLM prompting](https://arxiv.org/abs/2402.12801) | Arxiv | 2024-02 | 
+| [Information Extraction from Legal Wills: How Well Does GPT-4 Do?](https://aclanthology.org/2023.findings-emnlp.287/) | EMNLP Findings | 2023-12 | [GitHub](https://github.com/ml4ai/ie4wills/) |
 | [Information Extraction in Low-Resource Scenarios: Survey and Perspective](https://arxiv.org/abs/2202.08063)| Arxiv | 2023-12 | [GitHub](https://github.com/zjunlp/Low-resource-KEPapers) |
 | [GenRES: Rethinking Evaluation for Generative Relation Extraction in the Era of Large Language Models](https://arxiv.org/abs/2402.10744) | Arxiv | 2023-12 | [GitHub](https://github.com/pat-jj/GenRES) |
 |  [Empirical Study of Zero-Shot NER with ChatGPT](https://arxiv.org/abs/2310.10035)  |   EMNLP       |  2023-12   | [GitHub](https://github.com/Emma1066/Zero-Shot-NER-with-ChatGPT) |
