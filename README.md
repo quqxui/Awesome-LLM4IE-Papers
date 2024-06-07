@@ -29,11 +29,13 @@ If you find our survey useful for your research, please cite the following paper
     - [Relation Extraction ](#relation-extraction)
     - [Event Extraction](#event-extraction)
     - [Universal Information Extraction](#universal-information-extraction)
-- [Learning Paradigms](#learning-paradigms)
+- [Information Extraction Techniques](#information-extraction-techniques)
     - [Supervised Fine-tuning](#supervised-fine-tuning)
     - [Few-shot ](#few-shot)
     - [Zero-shot](#zero-shot)
     - [Data Augmentation](#data-augmentation)
+    - [Prompts Design](#prompts-design)
+    - [Constrained Decoding Generation](#constrained-decoding-generation)
 - [Specific Domain](#specific-domain)
 - [Evaluation and Analysis](#evaluation-and-analysis)
 - [Project and Toolkit](#project-and-toolkit)
@@ -243,8 +245,8 @@ Unified models targeting multiple IE tasks.
 |  [Retrieval-Augmented Code Generation for Universal Information Extraction](https://arxiv.org/abs/2311.02962)  |      Arxiv    |   2023-11  | []() |
 |  [CODEIE: Large Code Generation Models are Better Few-Shot Information Extractors](https://arxiv.org/abs/2305.05711)  |       ACL   |   2023-07 | [GitHub](https://github.com/artpli/CodeIE) |
 |  [CodeKGC: Code Language Model for Generative Knowledge Graph Construction](https://dl.acm.org/doi/abs/10.1145/3641850)  |    ACM TALLIP      |   2024-03  | [GitHub](https://github.com/zjunlp/DeepKE/tree/main/example/llm/CodeKGC) |
-# Learning Paradigms
-A taxonomy by Learning Paradigms.
+# Information Extraction Techniques
+A taxonomy by techniques.
 ## Supervised Fine-tuning
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
