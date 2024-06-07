@@ -1038,3 +1038,8 @@ A taxonomy by techniques.
         </tr>
     </tbody>
 </table>
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=quqxui/Awesome-LLM4IE-Papers&type=Date)](https://star-history.com/#quqxui/Awesome-LLM4IE-Papers&Date)
