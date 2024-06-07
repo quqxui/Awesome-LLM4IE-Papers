@@ -445,6 +445,24 @@ A taxonomy by Learning Paradigms.
 |  [Entity-to-Text based Data Augmentation for various Named Entity Recognition Tasks](https://aclanthology.org/2023.findings-acl.578/)  |     ACL Findings     |   2023-07  | []() |
 |  [Event Extraction as Question Generation and Answering](https://aclanthology.org/2023.acl-short.143.pdf)  |   ACL Short       |  2023-07   | [GitHub](https://github.com/dataminr-ai/Event-Extraction-as-Question-Generation-and-Answering) |
 |  [STAR: Boosting Low-Resource Event Extraction by Structure-to-Text Data Generation with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29839)  |     AAAI     |  2024-03   | []() |
+### Synthetic Datasets for Instruction-tuning
+|  Paper  |      Venue    |   Date  | Code |
+| :----- | :--------------: | :------- | :---------: |
+| [Rethinking Negative Instances for Generative Named Entity Recognition](https://arxiv.org/abs/2402.16602) |  Arxiv | 2024-02 | [GitHub](https://github.com/yyDing1/GNER) |
+|  [UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition](https://openreview.net/pdf?id=r65xfUb76p)  |   ICLR    |  2024-01   |  [GitHub](https://github.com/universal-ner/universal-ner)  |
+| [GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer](https://arxiv.org/abs/2311.08526) | Arxiv | 2023-11 | [GitHub](https://github.com/urchade/GLiNER) |
+|  [Chain-of-Thought Prompt Distillation for Multimodal Named Entity Recognition and Multimodal Relation Extraction](https://arxiv.org/abs/2306.14122)  |    Multimodal     |  Arxiv  |   2023-08  | |
+
+## Constrained Decoding Generation
+|  Paper  |      Venue    |   Date  | Code |
+| :----- | :--------------: | :------- | :---------: |
+| [An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/29919) | AAAI | 2024-03 | [GitHub](https://github.com/urchade/ATG) |
+|  [Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning](https://aclanthology.org/2023.emnlp-main.674/)  |     EMNLP     |   2024-01  | [GitHub](https://github.com/epfl-dlab/GCD) |
+| [DORE: Document Ordered Relation Extraction based on Generative Framework](https://aclanthology.org/2022.findings-emnlp.253/) |  EMNLP Findings | 2022-12 |
+|  [Autoregressive Structured Prediction with Language Models](https://aclanthology.org/2022.findings-emnlp.70/)  |     EMNLP Findings     |   2022-12  | [GitHub](https://github.com/lyutyuh/ASP) |
+|  [Unified Structure Generation for Universal Information Extraction](https://aclanthology.org/2022.acl-long.395/)  |      ACL       |  2022-05     | [GitHub](https://github.com/yhcc/BARTABSA) |
+
+
 # Specific Domain
 |  Paper  |  Domain |   Venue    |   Date  | Code |
 | :----- | :--------------: | :-------: | :---------: |:---------: |
