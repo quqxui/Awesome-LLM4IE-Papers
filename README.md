@@ -533,6 +533,7 @@ A taxonomy by techniques.
 # Evaluation and Analysis
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+| [GenRES: Rethinking Evaluation for Generative Relation Extraction in the Era of Large Language Models](https://arxiv.org/abs/2402.10744) | NAACL Main | 2024-06 | []() |
 | [Astro-NER -- Astronomy Named Entity Recognition: Is GPT a Good Domain Expert Annotator?](https://arxiv.org/abs/2405.02602) | Arxiv | 2024-05 | []() |
 | [Empirical Analysis of Dialogue Relation Extraction with Large Language Models](https://arxiv.org/abs/2404.17802)  | IJCAI | 2024-04 | []() |
 | [Relation Extraction Using Large Language Models: A Case Study on Acupuncture Point Locations](https://arxiv.org/pdf/2404.05415)  | Arxiv | 2024-04 | []() |
