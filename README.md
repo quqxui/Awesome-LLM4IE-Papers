@@ -218,7 +218,7 @@ Models targeting only EE tasks.
 |  [DemoSG: Demonstration-enhanced Schema-guided Generation for Low-resource Event Extraction](https://aclanthology.org/2023.findings-emnlp.121) |     EMNLP Findings     | 2023-12    | [GitHub](https://github.com/GangZhao98/DemoSG) |
 |  [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)  |     EMNLP Findings     | 2023-12    | [GitHub](https://github.com/mayubo2333/LLM-IE) |
 |  [DICE: Data-Efficient Clinical Event Extraction with Generative Models](https://aclanthology.org/2023.acl-long.886.pdf)  |      ACL    |  2023-07   | [GitHub](https://github.com/derekmma/DICE) |
-|  [A Monte Carlo Language Model Pipeline for Zero-Shot Sociopolitical Event Extraction](https://openreview.net/pdf?id=3xGnOrUqt1)   |    NIPS Workshop      |  2023-10    | []() |
+|  [A Monte Carlo Language Model Pipeline for Zero-Shot Sociopolitical Event Extraction](https://openreview.net/pdf?id=3xGnOrUqt1)   |    NeurIPS Workshop      |  2023-10    | []() |
 |  [STAR: Boosting Low-Resource Information Extraction by Structure-to-Text Data Generation with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29839)  |     AAAI     |  2024-03   | []() |
 |  [DEGREE: A Data-Efficient Generative Event Extraction Model](https://aclanthology.org/2022.naacl-main.138/)  |      NAACL    |   2022-07  | [GitHub](https://github.com/PlusLabNLP/DEGREE) |
 |  [ClarET: Pre-training a correlation-aware context-to-event transformer for event-centric generation and classification](https://aclanthology.org/2022.acl-long.183/)  |   ACL       |    2022-05 | [GitHub](https://github.com/yczhou001/ClarET) |
@@ -391,7 +391,7 @@ A taxonomy by techniques.
 | [Revisiting Large Language Models as Zero-shot Relation Extractors](https://arxiv.org/abs/2310.05028)   |     EMNLP Findings     |  2023-10    | []() |
 | [Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors](https://aclanthology.org/2023.findings-acl.50.pdf)   |     ACL Findings     |  2023-07    | [GitHub](https://github.com/OSU-NLP-Group/QA4RE) |
 | [Code4Struct: Code Generation for Few-Shot Event Structure Prediction](https://arxiv.org/abs/2210.12810)   |    ACL      |   2023-07   | [GitHub](https://github.com/xingyaoww/code4struct) |
-| [A Monte Carlo Language Model Pipeline for Zero-Shot Sociopolitical Event Extraction](https://openreview.net/pdf?id=3xGnOrUqt1)   |    NIPS Workshop     |  2023-10    | []() |
+| [A Monte Carlo Language Model Pipeline for Zero-Shot Sociopolitical Event Extraction](https://openreview.net/pdf?id=3xGnOrUqt1)   |    NeurIPS Workshop     |  2023-10    | []() |
 | [Global Constraints with Prompting for Zero-Shot Event Argument Classification](https://aclanthology.org/2023.findings-eacl.191/) | EACL Findings | 2023-05 | |
 | [Zero-Shot Information Extraction via Chatting with ChatGPT](https://arxiv.org/abs/2302.10205)   |      Arxiv      |  2023-02    | [GitHub](https://github.com/cocacola-lab/ChatIE) |
 ### Cross-Domain Learning
@@ -402,7 +402,7 @@ A taxonomy by techniques.
 | [Rethinking Negative Instances for Generative Named Entity Recognition](https://aclanthology.org/2024.findings-acl.206/) |  ACL Findings | 2024 | [GitHub](https://github.com/yyDing1/GNER) |
 | [IEPile: Unearthing Large-Scale Schema-Based Information Extraction Corpus](https://aclanthology.org/2024.acl-short.13/) | ACL Short | 2024 | [GitHub](https://github.com/zjunlp/IEPile?tab=readme-ov-file) |
 | [Diluie: constructing diverse demonstrations of in-context learning with large language model for unified information extraction](https://link.springer.com/article/10.1007/s00521-024-09728-5)  | Others | 2024-04 | [GitHub](https://github.com/Phevos75/DILUIE) |
-| [Advancing Entity Recognition in Biomedicine via Instruction Tuning of Large Language Models]() | Biomedical | Bioinformatics | 2024-03 | [GitHub](https://github.com/BIDS-Xu-Lab/BioNER-LLaMA) |
+| [Advancing Entity Recognition in Biomedicine via Instruction Tuning of Large Language Models]() |  Bioinformatics | 2024-03 | [GitHub](https://github.com/BIDS-Xu-Lab/BioNER-LLaMA) |
 | [ChatUIE: Exploring Chat-based Unified Information Extraction using Large Language Models]() | COLING | 2024 | |
 | [ULTRA: Unleash LLMs' Potential for Event Argument Extraction through Hierarchical Modeling and Pair-wise Refinement](https://arxiv.org/abs/2401.13218)  | Arxiv | 2024-01 | []() |
 | [YAYI-UIE: A Chat-Enhanced Instruction Tuning Framework for Universal Information Extraction](https://arxiv.org/abs/2312.15548) | Arxiv | 2024-04 | 
@@ -472,7 +472,7 @@ A taxonomy by techniques.
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
 | [RT: a Retrieving and Chain-of-Thought framework for few-shot medical named entity recognition](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocae095/7665312) | Others | 2024-05 | [GitHub](https://github.com/ToneLi/RT-Retrieving-and-Thinking) |
-|  [Inspire the Large Language Model by External Knowledge on BioMedical Named Entity Recognition](https://arxiv.org/abs/2309.12278)  |    Biomedical     |  Arxiv  |   2023-09  | |
+|  [Inspire the Large Language Model by External Knowledge on BioMedical Named Entity Recognition](https://arxiv.org/abs/2309.12278)  |   Arxiv  |   2023-09  | |
 |  [Chain-of-Thought Prompt Distillation for Multimodal Named Entity Recognition and Multimodal Relation Extraction](https://arxiv.org/abs/2306.14122) |  Arxiv  |   2023-08  | |
 |  [Revisiting Relation Extraction in the era of Large Language Models](https://aclanthology.org/2023.acl-long.868.pdf)  |   ACL   |  2023-07  | [GitHub](https://sominw.com/ACL23LLMs) |
 |  [Zero-shot Temporal Relation Extraction with ChatGPT](https://aclanthology.org/2023.bionlp-1.7/)  |  BioNLP    |  2023-07   |  |
