@@ -1,6 +1,9 @@
 
 # Awesome-LLM4IE-Papers
 
+🔥🔥🔥 **The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-024-40555-y}**.
+
+---
 
 Awesome papers about generative Information extraction using LLMs
 
@@ -16,14 +19,21 @@ If any suggestions or mistakes, please feel free to let us know via email at **d
 
 If you find our survey useful for your research, please cite the following paper:
 
-    @misc{xu2023large,
-        title={Large Language Models for Generative Information Extraction: A Survey}, 
-        author={Derong Xu and Wei Chen and Wenjun Peng and Chao Zhang and Tong Xu and Xiangyu Zhao and Xian Wu and Yefeng Zheng and Enhong Chen},
-        year={2023},
-        eprint={2312.17617},
-        archivePrefix={arXiv},
-        primaryClass={cs.CL}
+    @article{Derong XU:0,
+        author = {Derong XU, Wei CHEN, Wenjun PENG, Chao ZHANG, Tong XU, Xiangyu ZHAO, Xian WU, Yefeng ZHENG, Yang WANG, Enhong CHEN},
+        title = {Large Language Models for Generative Information Extraction: A Survey},
+        publisher = {Front. Comput. Sci.},
+        year = {2024},
+        journal = {Frontiers of Computer Science},
+        volume = {},
+        number = {},
+        eid = {0},
+        numpages = {0},
+        pages = {0},
+        url = {https://journal.hep.com.cn/fcs/EN/abstract/article_48188.shtml},
+        doi = {10.1007/s11704-024-40555-y}
     }
+
     
 ## 📒 Table of Contents
 - [Information Extraction tasks](#information-extraction-tasks)
