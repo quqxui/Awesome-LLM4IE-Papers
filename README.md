@@ -1,7 +1,7 @@
 
 # Awesome-LLM4IE-Papers
 
-🔥🔥🔥 **The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-024-40555-y}**.
+🔥🔥🔥 **The article has been accepted by Frontiers of Computer Science (FCS)**.
 
 ---
 
@@ -11,7 +11,7 @@ Awesome papers about generative Information extraction using LLMs
 <img src="./image/intro.png" style="width: 50%">
 </p>
 
-The organization of papers is discussed in our survey: [Large Language Models for Generative Information Extraction: A Survey](https://arxiv.org/abs/2312.17617). 
+The organization of papers is discussed in our survey: [Large Language Models for Generative Information Extraction: A Survey](https://link.springer.com/article/10.1007/s11704-024-40555-y). 
 
 If you find any relevant academic papers that have not been included in our research, please submit a request for an update. We welcome contributions from everyone.
 
@@ -19,19 +19,15 @@ If any suggestions or mistakes, please feel free to let us know via email at **d
 
 If you find our survey useful for your research, please cite the following paper:
 
-    @article{Derong XU:0,
-        author = {Derong XU, Wei CHEN, Wenjun PENG, Chao ZHANG, Tong XU, Xiangyu ZHAO, Xian WU, Yefeng ZHENG, Yang WANG, Enhong CHEN},
-        title = {Large Language Models for Generative Information Extraction: A Survey},
-        publisher = {Front. Comput. Sci.},
-        year = {2024},
-        journal = {Frontiers of Computer Science},
-        volume = {},
-        number = {},
-        eid = {0},
-        numpages = {0},
-        pages = {0},
-        url = {https://journal.hep.com.cn/fcs/EN/abstract/article_48188.shtml},
-        doi = {10.1007/s11704-024-40555-y}
+    @article{xu2024large,
+      title={Large language models for generative information extraction: A survey},
+      author={Xu, Derong and Chen, Wei and Peng, Wenjun and Zhang, Chao and Xu, Tong and Zhao, Xiangyu and Wu, Xian and Zheng, Yefeng and Wang, Yang and Chen, Enhong},
+      journal={Frontiers of Computer Science},
+      volume={18},
+      number={6},
+      pages={186357},
+      year={2024},
+      publisher={Springer}
     }
 
     
@@ -74,6 +70,8 @@ Models targeting only ner tasks.
 ### Entity Identification & Typing 
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+| [Granular Entity Mapper: Advancing Fine-grained Multimodal Named Entity Recognition and Grounding](https://aclanthology.org/2024.findings-emnlp.183/) | EMNLP Findings | 2024 | |
+| [Double-Checker: Large Language Model as a Checker for Few-shot Named Entity Recognition](https://aclanthology.org/2024.findings-emnlp.180/) | EMNLP Findings | 2024 | [GitHub](https://github.com/fanshu6hao/Double-Checker) |
 | [VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models](https://aclanthology.org/2024.acl-long.134/) | ACL | 2024 | [GitHub](https://github.com/emseoyk/VerifiNER) | 
 | [ProgGen: Generating Named Entity Recognition Datasets Step-by-step with Self-Reflexive Large Language Models](https://aclanthology.org/2024.findings-acl.947/) | ACL Findings | 2024 | [GitHub](https://github.com/StefanHeng/ProgGen) |
 | [Rethinking Negative Instances for Generative Named Entity Recognition](https://aclanthology.org/2024.findings-acl.206/) |  ACL Findings | 2024 | [GitHub](https://github.com/yyDing1/GNER) |
@@ -509,6 +507,7 @@ A taxonomy by techniques.
 # Specific Domain
 |  Paper  |  Domain |   Venue    |   Date  | Code |
 | :----- | :--------------: | :-------: | :---------: |:---------: |
+| [Granular Entity Mapper: Advancing Fine-grained Multimodal Named Entity Recognition and Grounding](https://aclanthology.org/2024.findings-emnlp.183/) | Multimodal |EMNLP Findings | 2024 | |
 | [LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition](https://aclanthology.org/2024.findings-acl.76/) | Multimodal | ACL Findings | 2024 | [GitHub](https://github.com/JinYuanLi0012/RiVEG) |
 | [RT: a Retrieving and Chain-of-Thought framework for few-shot medical named entity recognition](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocae095/7665312) | Medical | Others | 2024-05 | [GitHub](https://github.com/ToneLi/RT-Retrieving-and-Thinking) |
 | [Astro-NER -- Astronomy Named Entity Recognition: Is GPT a Good Domain Expert Annotator?](https://arxiv.org/abs/2405.02602) | Astronomy | Arxiv | 2024-05 | []() |
