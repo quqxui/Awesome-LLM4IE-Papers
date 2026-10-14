@@ -70,6 +70,7 @@ Models targeting only ner tasks.
 ### Entity Identification & Typing 
 |  Paper  |      Venue    |   Date  | Code |
 | :----- | :--------------: | :------- | :---------: |
+| [Just Pass Twice: Efficient Token Classification with LLMs for Zero-Shot NER](https://aclanthology.org/2026.acl-long.526/) | ACL | 2026-07 | [GitHub](https://github.com/a-3wais/Just-Pass-Twice-NER) |
 | [Granular Entity Mapper: Advancing Fine-grained Multimodal Named Entity Recognition and Grounding](https://aclanthology.org/2024.findings-emnlp.183/) | EMNLP Findings | 2024 | |
 | [Double-Checker: Large Language Model as a Checker for Few-shot Named Entity Recognition](https://aclanthology.org/2024.findings-emnlp.180/) | EMNLP Findings | 2024 | [GitHub](https://github.com/fanshu6hao/Double-Checker) |
 | [VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models](https://aclanthology.org/2024.acl-long.134/) | ACL | 2024 | [GitHub](https://github.com/emseoyk/VerifiNER) | 
